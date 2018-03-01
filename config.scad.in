@@ -1,0 +1,31 @@
+/*
+  Project name: Universal box
+  File: config.scad
+  Version: v0.1
+  Create by: Rom1 <rom1@canel.ch> - CANEL - https://www.canel.ch
+  Date: 01/03/2018
+  License: GNU GENERAL PUBLIC LICENSE v3
+  Programme: openscad
+  Description: Configuration file to define the dimensions of the box
+*/
+
+box_thinkness = ;
+
+box_x = ;
+box_y = ;
+box_z = ;
+
+box_inside_x = ;
+box_inside_y = ;
+box_inside_z = ;
+
+cover_x = ;
+cover_y = ;
+cover_z = ;
+
+module drilling_diagram(){
+/*  drilling(x, y, diameter, length, [face], [mirror]) */
+}
+
+
+// vim: ft=openscad tw=100 et ts=4 sw=4
